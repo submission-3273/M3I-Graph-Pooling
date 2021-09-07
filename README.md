@@ -2,7 +2,7 @@
 
 ==========
 
-The source code for submission-654 of AAAI 2022: Hierarchical Unsupervised Graph Pooling via Multi-Granularity Mutual Information Maximization
+The source code of submission-3273 of AAAI 2022: Hierarchical Unsupervised Graph Pooling via Multi-Granularity Mutual Information Maximization
 
 ==========
 
