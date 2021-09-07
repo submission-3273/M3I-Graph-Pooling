@@ -1,8 +1,8 @@
-# MIP
+# M3I Graph Pooling
 
 ==========
 
-The source code for submission-654 of CIKM 2021: MIP: Unsupervised Hierarchical graph Pooling via Muti-granularity Mutual Information Maximization
+The source code for submission-654 of AAAI 2022: Hierarchical Unsupervised Graph Pooling via Multi-Granularity Mutual Information Maximization
 
 ==========
 
